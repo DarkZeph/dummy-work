@@ -10,6 +10,15 @@
       "department": "Computing"
     },
     {
+      "student_id": "TP070984",
+      "student_name": "ISAAC MUTEMBEI MUSYOKA",
+      "intake_code": "APU2F25091CS(TY)",
+      "programme_name": "Bachelor of Science (Honours) in Information Technology",
+      "email": "tp070984@student.apu.edu.my",
+      "course_code": "BIT",
+      "department": "Computing"
+    },
+    {
       "student_id": "TP068002",
       "student_name": "SITI NOR AISHAH BINTI ALI",
       "intake_code": "APU2F2409IT(FT)",
