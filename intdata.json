@@ -3,7 +3,7 @@
     {
       "student_id": "TP068001",
       "student_name": "AHMAD BIN KAMAL",
-      "intake_code": "APU2F2409IT(FT)",
+      "intake_code": "APU2F25091CS(TY)",
       "programme_name": "Bachelor of Science (Honours) in Information Technology",
       "email": "ahmad.kamal@student.apu.edu.my"
     },
@@ -24,21 +24,21 @@
     {
       "student_id": "TP08462",
       "student_name": "ISAAC MUTEMBEI MUSYOKA",
-      "intake_code": "APU2F25509EG",
+      "intake_code": "APU2F25091CS(TY)",
       "programme_name": "Bachelor of Engineering",
       "email": "Isaacmusyoka31@gmail.com"
     },
     {
       "student_id": "TP068002",
       "student_name": "SITI NOR AISHAH BINTI ALI",
-      "intake_code": "APU2F2409IT(FT)",
+      "intake_code": "APU2F2409SE(FT)",
       "programme_name": "Bachelor of Science (Honours) in Information Technology",
       "email": "siti.aishah@student.apu.edu.my"
     },
     {
       "student_id": "TP068003",
       "student_name": "CHONG WEI LING",
-      "intake_code": "APU2F2409CS(FT)",
+      "intake_code": "APU2F2409SE(FT)",
       "programme_name": "Bachelor of Computer Science (Honours)",
       "email": "chong.weiling@student.apu.edu.my"
     },
@@ -52,7 +52,7 @@
     {
       "student_id": "TP068005",
       "student_name": "FATIMAH BINTI HASSAN",
-      "intake_code": "APU2F2409CY(FT)",
+      "intake_code": "APU2F2409SE(FT)",
       "programme_name": "Bachelor of Cyber Security (Honours)",
       "email": "fatimah.hassan@student.apu.edu.my"
     },
@@ -73,21 +73,21 @@
     {
       "student_id": "TP068008",
       "student_name": "NURUL SYAZWANI BINTI MOHD",
-      "intake_code": "APU2F2409GD(FT)",
+      "intake_code": "APU2F2409AI(FT)",
       "programme_name": "Bachelor of Game Development (Honours)",
       "email": "nurul.syazwani@student.apu.edu.my"
     },
     {
       "student_id": "TP068009",
       "student_name": "KAVITHA A/P SANTHOSH",
-      "intake_code": "APU1F2401NW(FT)",
+      "intake_code": "APU2F2409AI(FT)",
       "programme_name": "Bachelor of Networking (Honours)",
       "email": "kavitha.santhosh@student.apu.edu.my"
     },
     {
       "student_id": "TP068010",
       "student_name": "LEE JIA WEI",
-      "intake_code": "APU2F2409MM(FT)",
+      "intake_code": "APU2F2409AI(FT)",
       "programme_name": "Bachelor of Multimedia (Honours)",
       "email": "lee.jiawei@student.apu.edu.my"
     },
@@ -101,14 +101,14 @@
     {
       "student_id": "TP069002",
       "student_name": "PRIYA DEVI A/P RAJESH",
-      "intake_code": "APD1F2401ME(FT)",
+      "intake_code": "APD1F2401EN(FT)",
       "programme_name": "Bachelor of Engineering (Honours) in Mechanical Engineering",
       "email": "priya.devi@student.apu.edu.my"
     },
     {
       "student_id": "TP069003",
       "student_name": "AHMAD FIKRI BIN ISMAIL",
-      "intake_code": "APD1F2401CE(FT)",
+      "intake_code": "APD1F2401EN(FT)",
       "programme_name": "Bachelor of Engineering (Honours) in Civil Engineering",
       "email": "ahmad.fikri@student.apu.edu.my"
     },
@@ -122,7 +122,7 @@
     {
       "student_id": "TP069005",
       "student_name": "WONG CHIN HONG",
-      "intake_code": "APD2F2409AE(FT)",
+      "intake_code": "APD1F2401CE(FT)",
       "programme_name": "Bachelor of Engineering (Honours) in Aerospace Engineering",
       "email": "wong.chinhong@student.apu.edu.my"
     },
@@ -136,14 +136,14 @@
     {
       "student_id": "TP069007",
       "student_name": "KUMARESAN A/L SUBRAMANIAM",
-      "intake_code": "APD1F2401TE(FT)",
+      "intake_code": "APD1F2401CE(FT)",
       "programme_name": "Bachelor of Engineering (Honours) in Telecommunications Engineering",
       "email": "kumaresan.subra@student.apu.edu.my"
     },
     {
       "student_id": "TP069008",
       "student_name": "TAN SIEW LIN",
-      "intake_code": "APD2F2409BE(FT)",
+      "intake_code": "APD1F2401CE(FT)",
       "programme_name": "Bachelor of Engineering (Honours) in Biomedical Engineering",
       "email": "tan.siewlin@student.apu.edu.my"
     },
@@ -165,41 +165,41 @@
       "student_id": "TP070001",
       "student_name": "CHEN WEI LING",
       "intake_code": "APD3F2405BU(FT)",
-      "programme_name": "Bachelor of Business (Honours) in International Business Management",
+      "programme_name": "Bachelor of Accounting (Honours)",
       "email": "chen.weiling@student.apu.edu.my"
     },
     {
       "student_id": "TP070002",
       "student_name": "MOHAMAD HAFIZ BIN ISMAIL",
-      "intake_code": "APD3F2405AC(FT)",
+      "intake_code": "APD3F2405BU(FT)",
       "programme_name": "Bachelor of Accounting (Honours)",
       "email": "hafiz.ismail@student.apu.edu.my"
     },
     {
       "student_id": "TP070003",
       "student_name": "NUR AMIRA BINTI SULAIMAN",
-      "intake_code": "APD3F2405MK(FT)",
-      "programme_name": "Bachelor of Marketing (Honours)",
+      "intake_code": "APD3F2405BU(FT)",
+      "programme_name": "Bachelor of Accounting (Honours)",
       "email": "nur.amira@student.apu.edu.my"
     },
     {
       "student_id": "TP070004",
       "student_name": "SAMUEL TAN JUN KIAT",
-      "intake_code": "APD3F2405FI(FT)",
+      "intake_code": "APD3F2405BU(FT)",
       "programme_name": "Bachelor of Finance (Honours)",
       "email": "samuel.tan@student.apu.edu.my"
     },
     {
       "student_id": "TP070005",
       "student_name": "PREM KUMAR A/L GOVINDASAMY",
-      "intake_code": "APD2F2409HR(FT)",
+      "intake_code": "APD3F2405BU(FT)",
       "programme_name": "Bachelor of Human Resource Management (Honours)",
       "email": "prem.kumar@student.apu.edu.my"
     },
     {
       "student_id": "TP070006",
       "student_name": "FATIN NADHIRAH BINTI ZAINAL",
-      "intake_code": "APD3F2405EM(FT)",
+      "intake_code": "APD3F2405BU(FT)",
       "programme_name": "Bachelor of Entrepreneurship (Honours)",
       "email": "fatin.nadhirah@student.apu.edu.my"
     },
@@ -213,21 +213,21 @@
     {
       "student_id": "TP070008",
       "student_name": "SITI RAHAYU BINTI MOHD NOR",
-      "intake_code": "APD2F2409LM(FT)",
+      "intake_code": "APD3F2405EC(FT)",
       "programme_name": "Bachelor of Logistics Management (Honours)",
       "email": "siti.rahayu@student.apu.edu.my"
     },
     {
       "student_id": "TP070009",
       "student_name": "ALEXANDER WONG CHUN HONG",
-      "intake_code": "APD3F2405TB(FT)",
+      "intake_code": "APD3F2405EC(FT)",
       "programme_name": "Bachelor of Tourism Management (Honours)",
       "email": "alexander.wong@student.apu.edu.my"
     },
     {
       "student_id": "TP070010",
       "student_name": "DINESH A/L PALANIAPPAN",
-      "intake_code": "APD3F2405RM(FT)",
+      "intake_code": "APD3F2405EC(FT)",
       "programme_name": "Bachelor of Retail Management (Honours)",
       "email": "dinesh.palaniappan@student.apu.edu.my"
     },
@@ -241,28 +241,28 @@
     {
       "student_id": "TP071002",
       "student_name": "KAVITHA A/P RAJENDRAN",
-      "intake_code": "APD2F2409CP(FT)",
+      "intake_code": "APD2F2409PS(FT)",
       "programme_name": "Bachelor of Counselling (Honours)",
       "email": "kavitha.rajendran@student.apu.edu.my"
     },
     {
       "student_id": "TP071003",
       "student_name": "LIM JIA YI",
-      "intake_code": "APD2F2409FP(FT)",
+      "intake_code": "APD2F2409PS(FT)",
       "programme_name": "Bachelor of Forensic Psychology (Honours)",
       "email": "lim.jiayi@student.apu.edu.my"
     },
     {
       "student_id": "TP071004",
       "student_name": "MUHAMMAD ALI BIN KASSIM",
-      "intake_code": "APD2F2409EP(FT)",
+      "intake_code": "APD2F2409PS(FT)",
       "programme_name": "Bachelor of Educational Psychology (Honours)",
       "email": "muhammad.ali@student.apu.edu.my"
     },
     {
       "student_id": "TP071005",
       "student_name": "TAN MEI FONG",
-      "intake_code": "APD2F2409HP(FT)",
+      "intake_code": "APD2F2409PS(FT)",
       "programme_name": "Bachelor of Health Psychology (Honours)",
       "email": "tan.meifong@student.apu.edu.my"
     },
@@ -276,28 +276,28 @@
     {
       "student_id": "TP071007",
       "student_name": "NURUL AIN BINTI ZAKARIA",
-      "intake_code": "APD2F2409SP(FT)",
+      "intake_code": "APD2F2409OP(FT)",
       "programme_name": "Bachelor of Sports Psychology (Honours)",
       "email": "nurul.ain@student.apu.edu.my"
     },
     {
       "student_id": "TP071008",
       "student_name": "CHONG KAI MING",
-      "intake_code": "APD2F2409NP(FT)",
+      "intake_code": "APD2F2409OP(FT)",
       "programme_name": "Bachelor of Neuropsychology (Honours)",
       "email": "chong.kaiming@student.apu.edu.my"
     },
     {
       "student_id": "TP071009",
       "student_name": "PREETI A/P SHARMA",
-      "intake_code": "APD2F2409DP(FT)",
+      "intake_code": "APD2F2409OP(FT)",
       "programme_name": "Bachelor of Developmental Psychology (Honours)",
       "email": "preeti.sharma@student.apu.edu.my"
     },
     {
       "student_id": "TP071010",
       "student_name": "WONG SIEW CHIN",
-      "intake_code": "APD2F2409AP(FT)",
+      "intake_code": "APD2F2409OP(FT)",
       "programme_name": "Bachelor of Applied Psychology (Honours)",
       "email": "wong.siewchin@student.apu.edu.my"
     }
