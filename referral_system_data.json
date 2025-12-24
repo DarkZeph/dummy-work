@@ -1,0 +1,815 @@
+{
+  "system_info": {
+    "name": "Assessment Referral Registration System",
+    "version": "1.0",
+    "description": "Comprehensive test dataset for Joget DX 8 Enterprise Assessment Referral System",
+    "last_updated": "2025-12-24"
+  },
+  
+  "students": [
+    {
+      "id": "STU001",
+      "student_number": "TP068359",
+      "student_name": "CHEN XIANG BIN",
+      "email": "chen.xiangbin@student.edu.my",
+      "phone": "+60123456789",
+      "date_of_birth": "2003-05-15",
+      "nationality": "Malaysian",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "STU002",
+      "student_number": "TP058125",
+      "student_name": "AHMAD FARIS BIN ABDULLAH",
+      "email": "ahmad.faris@student.edu.my",
+      "phone": "+60198765432",
+      "date_of_birth": "2002-08-22",
+      "nationality": "Malaysian",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "STU003",
+      "student_number": "TP061760",
+      "student_name": "SITI NURHALIZA BINTI HASSAN",
+      "email": "siti.nurhaliza@student.edu.my",
+      "phone": "+60167894561",
+      "date_of_birth": "2003-01-10",
+      "nationality": "Malaysian",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "STU004",
+      "student_number": "TP058923",
+      "student_name": "MOTHASIM BILLAH BASHIR",
+      "email": "mothasim.bashir@student.edu.my",
+      "phone": "+60123698745",
+      "date_of_birth": "2002-11-30",
+      "nationality": "Bangladeshi",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "STU005",
+      "student_number": "TP062340",
+      "student_name": "LEE WEI JIE",
+      "email": "lee.weijie@student.edu.my",
+      "phone": "+60145623789",
+      "date_of_birth": "2003-07-18",
+      "nationality": "Malaysian",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "STU006",
+      "student_number": "TP059876",
+      "student_name": "KUMAR RAJAN",
+      "email": "kumar.rajan@student.edu.my",
+      "phone": "+60187456321",
+      "date_of_birth": "2002-09-05",
+      "nationality": "Indian",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "STU007",
+      "student_number": "TP063421",
+      "student_name": "NURUL AINA BINTI ISMAIL",
+      "email": "nurul.aina@student.edu.my",
+      "phone": "+60123214567",
+      "date_of_birth": "2003-03-25",
+      "nationality": "Malaysian",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "STU008",
+      "student_number": "TP060123",
+      "student_name": "TAN SU LIN",
+      "email": "tan.sulin@student.edu.my",
+      "phone": "+60198523647",
+      "date_of_birth": "2003-06-12",
+      "nationality": "Malaysian",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "STU009",
+      "student_number": "TP061234",
+      "student_name": "MUHAMMAD HAZIQ BIN OMAR",
+      "email": "muhammad.haziq@student.edu.my",
+      "phone": "+60167895432",
+      "date_of_birth": "2002-12-08",
+      "nationality": "Malaysian",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "STU010",
+      "student_number": "TP062567",
+      "student_name": "PRIYA SHARMA",
+      "email": "priya.sharma@student.edu.my",
+      "phone": "+60145698732",
+      "date_of_birth": "2003-04-20",
+      "nationality": "Indian",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    }
+  ],
+  
+  "intakes": [
+    {
+      "id": "INT001",
+      "intake_code": "APD1F2307CS",
+      "intake_name": "Diploma in Information Technology - July 2023",
+      "start_date": "2023-07-01",
+      "end_date": "2025-12-31",
+      "academic_year": "2023/2024",
+      "semester": "Semester 1",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "INT002",
+      "intake_code": "APD2F2411CS",
+      "intake_name": "Diploma in Information Technology - November 2024",
+      "start_date": "2024-11-01",
+      "end_date": "2026-12-31",
+      "academic_year": "2024/2025",
+      "semester": "Semester 1",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "INT003",
+      "intake_code": "CTI2212DEGREE",
+      "intake_name": "Bachelor of Computer Science - December 2022",
+      "start_date": "2022-12-01",
+      "end_date": "2025-12-31",
+      "academic_year": "2022/2023",
+      "semester": "Semester 1",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "INT004",
+      "intake_code": "APU2F2109IT",
+      "intake_name": "Diploma in Software Engineering - September 2021",
+      "start_date": "2021-09-01",
+      "end_date": "2024-06-30",
+      "academic_year": "2021/2022",
+      "semester": "Semester 1",
+      "status": "COMPLETED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "INT005",
+      "intake_code": "APD1F2507CS",
+      "intake_name": "Diploma in Information Technology - July 2025",
+      "start_date": "2025-07-01",
+      "end_date": "2027-12-31",
+      "academic_year": "2025/2026",
+      "semester": "Semester 1",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    }
+  ],
+  
+  "enrollments": [
+    {
+      "id": "ENR001",
+      "student_id": "STU001",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR002",
+      "student_id": "STU002",
+      "intake_id": "INT004",
+      "enrollment_date": "2021-09-01",
+      "status": "COMPLETED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR003",
+      "student_id": "STU002",
+      "intake_id": "INT002",
+      "enrollment_date": "2024-11-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR004",
+      "student_id": "STU003",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR005",
+      "student_id": "STU004",
+      "intake_id": "INT003",
+      "enrollment_date": "2022-12-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR006",
+      "student_id": "STU005",
+      "intake_id": "INT002",
+      "enrollment_date": "2024-11-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR007",
+      "student_id": "STU006",
+      "intake_id": "INT003",
+      "enrollment_date": "2022-12-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR008",
+      "student_id": "STU007",
+      "intake_id": "INT005",
+      "enrollment_date": "2025-07-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR009",
+      "student_id": "STU008",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR010",
+      "student_id": "STU009",
+      "intake_id": "INT002",
+      "enrollment_date": "2024-11-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "ENR011",
+      "student_id": "STU010",
+      "intake_id": "INT005",
+      "enrollment_date": "2025-07-01",
+      "status": "ENROLLED",
+      "created_date": "2025-12-24 10:00:00"
+    }
+  ],
+  
+  "modules": [
+    {
+      "id": "MOD001",
+      "module_code": "MPU3352-KIAR",
+      "module_name": "Malay Language for International Students",
+      "credit_hours": 3,
+      "module_type": "General",
+      "level": "Foundation",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD002",
+      "module_code": "MPU3112-PEP",
+      "module_name": "Entrepreneurship",
+      "credit_hours": 2,
+      "module_type": "General",
+      "level": "Foundation",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD003",
+      "module_code": "CT074-3-2-CCP",
+      "module_name": "C++ Programming",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Diploma Year 1",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD004",
+      "module_code": "AQ077-3-2-PSMOD",
+      "module_name": "Problem Solving & Modular Design",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Diploma Year 1",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD005",
+      "module_code": "CTI001-3-C-CTI",
+      "module_name": "Critical Thinking & Innovation",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Degree Year 1",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD006",
+      "module_code": "CT098-3-3-ISTR",
+      "module_name": "Information Systems & Requirements",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Degree Year 2",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD007",
+      "module_code": "CT104-3-2-IBPSES",
+      "module_name": "Business Process & Software Engineering",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Degree Year 2",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD008",
+      "module_code": "MPU3352-KIAR-TEST",
+      "module_name": "Advanced Malay Language",
+      "credit_hours": 3,
+      "module_type": "Elective",
+      "level": "Foundation",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD009",
+      "module_code": "CT001-3-C-PROG",
+      "module_name": "Programming Fundamentals",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Diploma Year 1",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD010",
+      "module_code": "CT002-3-C-WEB",
+      "module_name": "Web Development",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Diploma Year 1",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD011",
+      "module_code": "CT003-3-C-DB",
+      "module_name": "Database Management",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Diploma Year 2",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD012",
+      "module_code": "CT004-3-C-NET",
+      "module_name": "Computer Networks",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Diploma Year 2",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD013",
+      "module_code": "CT005-3-C-SEC",
+      "module_name": "Cybersecurity Fundamentals",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Degree Year 1",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD014",
+      "module_code": "CT006-3-C-AI",
+      "module_name": "Artificial Intelligence",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Degree Year 3",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "MOD015",
+      "module_code": "CT007-3-C-ML",
+      "module_name": "Machine Learning",
+      "credit_hours": 3,
+      "module_type": "Core",
+      "level": "Degree Year 3",
+      "created_date": "2025-12-24 10:00:00"
+    }
+  ],
+  
+  "student_modules": [
+    {
+      "id": "SM001",
+      "student_id": "STU001",
+      "module_id": "MOD001",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "COMPLETED",
+      "grade": "B+",
+      "marks": 72.50,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM002",
+      "student_id": "STU001",
+      "module_id": "MOD003",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "FAILED",
+      "grade": "F",
+      "marks": 35.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM003",
+      "student_id": "STU001",
+      "module_id": "MOD004",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "FAILED",
+      "grade": "F",
+      "marks": 42.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM004",
+      "student_id": "STU001",
+      "module_id": "MOD009",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "COMPLETED",
+      "grade": "A",
+      "marks": 85.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM005",
+      "student_id": "STU001",
+      "module_id": "MOD010",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "ENROLLED",
+      "grade": null,
+      "marks": null,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM006",
+      "student_id": "STU002",
+      "module_id": "MOD002",
+      "intake_id": "INT002",
+      "enrollment_date": "2024-11-01",
+      "status": "FAILED",
+      "grade": "F",
+      "marks": 38.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM007",
+      "student_id": "STU002",
+      "module_id": "MOD009",
+      "intake_id": "INT002",
+      "enrollment_date": "2024-11-01",
+      "status": "ENROLLED",
+      "grade": null,
+      "marks": null,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM008",
+      "student_id": "STU002",
+      "module_id": "MOD010",
+      "intake_id": "INT002",
+      "enrollment_date": "2024-11-01",
+      "status": "ENROLLED",
+      "grade": null,
+      "marks": null,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM009",
+      "student_id": "STU002",
+      "module_id": "MOD011",
+      "intake_id": "INT002",
+      "enrollment_date": "2024-11-01",
+      "status": "FAILED",
+      "grade": "F",
+      "marks": 45.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM010",
+      "student_id": "STU003",
+      "module_id": "MOD001",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "COMPLETED",
+      "grade": "A-",
+      "marks": 78.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM011",
+      "student_id": "STU003",
+      "module_id": "MOD003",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "COMPLETED",
+      "grade": "B",
+      "marks": 68.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM012",
+      "student_id": "STU003",
+      "module_id": "MOD009",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "FAILED",
+      "grade": "F",
+      "marks": 48.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "SM013",
+      "student_id": "STU003",
+      "module_id": "MOD010",
+      "intake_id": "INT001",
+      "enrollment_date": "2023-07-01",
+      "status": "ENROLLED",
+      "grade": null,
+      "marks": null,
+      "created_date": "2025-12-24 10:00:00"
+    }
+  ],
+  
+  "assessment_types": [
+    {
+      "id": "AST001",
+      "assessment_code": "Test",
+      "assessment_name": "Test",
+      "description": "Mid-term test assessment",
+      "weightage_percentage": 20.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "AST002",
+      "assessment_code": "Quiz",
+      "assessment_name": "Quiz",
+      "description": "Short quiz assessment",
+      "weightage_percentage": 10.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "AST003",
+      "assessment_code": "Exam",
+      "assessment_name": "Final Examination",
+      "description": "End of semester examination",
+      "weightage_percentage": 50.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "AST004",
+      "assessment_code": "Assignment",
+      "assessment_name": "Individual Assignment",
+      "description": "Individual coursework",
+      "weightage_percentage": 15.00,
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "AST005",
+      "assessment_code": "Project",
+      "assessment_name": "Group Project",
+      "description": "Group project work",
+      "weightage_percentage": 5.00,
+      "created_date": "2025-12-24 10:00:00"
+    }
+  ],
+  
+  "registration_periods": [
+    {
+      "id": "REG001",
+      "period_code": "02/12/2025 - 04/01/2026",
+      "start_date": "2025-12-02",
+      "end_date": "2026-01-04",
+      "academic_session": "2025/2026 Semester 1",
+      "status": "ACTIVE",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "REG002",
+      "period_code": "05/01/2026 - 02/02/2026",
+      "start_date": "2026-01-05",
+      "end_date": "2026-02-02",
+      "academic_session": "2025/2026 Semester 1",
+      "status": "UPCOMING",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "REG003",
+      "period_code": "15/03/2026 - 15/04/2026",
+      "start_date": "2026-03-15",
+      "end_date": "2026-04-15",
+      "academic_session": "2025/2026 Semester 2",
+      "status": "UPCOMING",
+      "created_date": "2025-12-24 10:00:00"
+    },
+    {
+      "id": "REG004",
+      "period_code": "06/07/2025 - 06/08/2025",
+      "start_date": "2025-07-06",
+      "end_date": "2025-08-06",
+      "academic_session": "2024/2025 Semester 2",
+      "status": "CLOSED",
+      "created_date": "2025-12-24 10:00:00"
+    }
+  ],
+  
+  "referral_registrations": [
+    {
+      "id": "REF001",
+      "dateCreated": "2025-12-10 10:30:00",
+      "dateModified": "2025-12-10 10:30:00",
+      "createdBy": "TP068359",
+      "createdByName": "CHEN XIANG BIN",
+      "modifiedBy": null,
+      "modifiedByName": null,
+      "c_student_name": "CHEN XIANG BIN",
+      "c_student_id": "TP068359",
+      "c_intake": "APD1F2307CS",
+      "c_list_of_referrals": "CT074-3-2-CCP --- Test --- APD1F2307CS;AQ077-3-2-PSMOD --- Exam --- APD1F2307CS",
+      "c_registration_period": "02/12/2025 - 04/01/2026",
+      "c_referral_date": "2025-12-10 10:30:00"
+    },
+    {
+      "id": "REF002",
+      "dateCreated": "2025-12-11 14:15:00",
+      "dateModified": "2025-12-11 14:15:00",
+      "createdBy": "TP058125",
+      "createdByName": "AHMAD FARIS BIN ABDULLAH",
+      "modifiedBy": null,
+      "modifiedByName": null,
+      "c_student_name": "AHMAD FARIS BIN ABDULLAH",
+      "c_student_id": "TP058125",
+      "c_intake": "APD2F2411CS",
+      "c_list_of_referrals": "MPU3112-PEP --- Quiz --- APD2F2411CS;CT003-3-C-DB --- Exam --- APD2F2411CS",
+      "c_registration_period": "02/12/2025 - 04/01/2026",
+      "c_referral_date": "2025-12-11 14:15:00"
+    },
+    {
+      "id": "REF003",
+      "dateCreated": "2025-12-12 09:45:00",
+      "dateModified": "2025-12-12 09:45:00",
+      "createdBy": "TP058923",
+      "createdByName": "MOTHASIM BILLAH BASHIR",
+      "modifiedBy": null,
+      "modifiedByName": null,
+      "c_student_name": "MOTHASIM BILLAH BASHIR",
+      "c_student_id": "TP058923",
+      "c_intake": "CTI2212DEGREE",
+      "c_list_of_referrals": "CT098-3-3-ISTR --- Test --- CTI2212DEGREE;CT104-3-2-IBPSES --- Exam --- CTI2212DEGREE",
+      "c_registration_period": "02/12/2025 - 04/01/2026",
+      "c_referral_date": "2025-12-12 09:45:00"
+    },
+    {
+      "id": "REF004",
+      "dateCreated": "2025-12-13 11:20:00",
+      "dateModified": "2025-12-13 11:20:00",
+      "createdBy": "TP062340",
+      "createdByName": "LEE WEI JIE",
+      "modifiedBy": null,
+      "modifiedByName": null,
+      "c_student_name": "LEE WEI JIE",
+      "c_student_id": "TP062340",
+      "c_intake": "APD2F2411CS",
+      "c_list_of_referrals": "CT002-3-C-WEB --- Test --- APD2F2411CS;CT004-3-C-NET --- Exam --- APD2F2411CS",
+      "c_registration_period": "02/12/2025 - 04/01/2026",
+      "c_referral_date": "2025-12-13 11:20:00"
+    }
+  ],
+  
+  "referral_history": [
+    {
+      "id": "HIST001",
+      "dateCreated": "2025-12-10 10:30:05",
+      "dateModified": "2025-12-10 10:30:05",
+      "createdBy": "TP068359",
+      "createdByName": "CHEN XIANG BIN",
+      "modifiedBy": null,
+      "modifiedByName": null,
+      "c_parent_id": "REF001",
+      "c_student_name": "CHEN XIANG BIN",
+      "c_student_id": "TP068359",
+      "c_intake": "APD1F2307CS",
+      "c_module_code": "CT074-3-2-CCP",
+      "c_type_of_assessment": "Test",
+      "c_registration_period": "02/12/2025 - 04/01/2026",
+      "c_duplicate_status": "No",
+      "c_referral_date": "2025-12-10 10:30:00"
+    },
+    {
+      "id": "HIST002",
+      "dateCreated": "2025-12-10 10:30:05",
+      "dateModified": "2025-12-10 10:30:05",
+      "createdBy": "TP068359",
+      "createdByName": "CHEN XIANG BIN",
+      "modifiedBy": null,
+      "modifiedByName": null,
+      "c_parent_id": "REF001",
+      "c_student_name": "CHEN XIANG BIN",
+      "c_student_id": "TP068359",
+      "c_intake": "APD1F2307CS",
+      "c_module_code": "AQ077-3-2-PSMOD",
+      "c_type_of_assessment": "Exam",
+      "c_registration_period": "02/12/2025 - 04/01/2026",
+      "c_duplicate_status": "No",
+      "c_referral_date": "2025-12-10 10:30:00"
+    },
+    {
+      "id": "HIST003",
+      "dateCreated": "2025-12-11 14:15:05",
+      "dateModified": "2025-12-11 14:15:05",
+      "createdBy": "TP058125",
+      "createdByName": "AHMAD FARIS BIN ABDULLAH",
+      "modifiedBy": null,
+      "modifiedByName": null,
+      "c_parent_id": "REF002",
+      "c_student_name": "AHMAD FARIS BIN ABDULLAH",
+      "c_student_id": "TP058125",
+      "c_intake": "APD2F2411CS",
+      "c_module_code": "MPU3112-PEP",
+      "c_type_of_assessment": "Quiz",
+      "c_registration_period": "02/12/2025 - 04/01/2026",
+      "c_duplicate_status": "No",
+      "c_referral_date": "2025-12-11 14:15:00"
+    },
+    {
+      "id": "HIST004",
+      "dateCreated": "2025-12-11 14:15:05",
+      "dateModified": "2025-12-11 14:15:05",
+      "createdBy": "TP058125",
+      "createdByName": "AHMAD FARIS BIN ABDULLAH",
+      "modifiedBy": null,
+      "modifiedByName": null,
+      "c_parent_id": "REF002",
+      "c_student_name": "AHMAD FARIS BIN ABDULLAH",
+      "c_student_id": "TP058125",
+      "c_intake": "APD2F2411CS",
+      "c_module_code": "CT003-3-C-DB",
+      "c_type_of_assessment": "Exam",
+      "c_registration_period": "02/12/2025 - 04/01/2026",
+      "c_duplicate_status": "No",
+      "c_referral_date": "2025-12-11 14:15:00"
+    }
+  ],
+  
+  "statistics": {
+    "total_students": 10,
+    "total_intakes": 5,
+    "total_modules": 15,
+    "total_enrollments": 11,
+    "total_student_modules": 13,
+    "total_assessment_types": 5,
+    "total_registration_periods": 4,
+    "total_referral_registrations": 4,
+    "total_referral_history": 4,
+    "students_with_failed_modules": [
+      {
+        "student_number": "TP068359",
+        "student_name": "CHEN XIANG BIN",
+        "failed_modules_count": 2,
+        "failed_modules": ["CT074-3-2-CCP", "AQ077-3-2-PSMOD"]
+      },
+      {
+        "student_number": "TP058125",
+        "student_name": "AHMAD FARIS BIN ABDULLAH",
+        "failed_modules_count": 2,
+        "failed_modules": ["MPU3112-PEP", "CT003-3-C-DB"]
+      },
+      {
+        "student_number": "TP058923",
+        "student_name": "MOTHASIM BILLAH BASHIR",
+        "failed_modules_count": 2,
+        "failed_modules": ["CT098-3-3-ISTR", "CT104-3-2-IBPSES"]
+      }
+    ],
+    "active_periods": ["02/12/2025 - 04/01/2026"],
+    "available_assessment_types": ["Test", "Quiz", "Exam"]
+  },
+  
+  "test_queries": {
+    "get_student_by_id": "SELECT * FROM test_student_profiles WHERE student_number = ?",
+    "get_failed_modules": "SELECT m.module_code, m.module_name, sm.grade, sm.marks, i.intake_code FROM test_student_modules sm JOIN test_modules m ON sm.module_id = m.id JOIN test_intakes i ON sm.intake_id = i.id WHERE sm.student_id = ? AND sm.status = 'FAILED'",
+    "check_duplicate_referral": "SELECT COUNT(*) as count FROM app_fd_referral_history WHERE c_student_id = ? AND c_module_code = ? AND c_type_of_assessment = ? AND c_intake = ?",
+    "get_referral_options": "SELECT DISTINCT CONCAT(m.module_code, ' --- ', 'Exam', ' --- ', i.intake_code) as option FROM test_student_modules sm JOIN test_modules m ON sm.module_id = m.id JOIN test_intakes i ON sm.intake_id = i.id WHERE sm.student_id = ? AND sm.status = 'FAILED'"
+  }
+}
