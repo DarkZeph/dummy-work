@@ -1,0 +1,13 @@
+{
+  "lecturers": [
+    { "id": 1, "name": "Dr. Farzan Ahmad", "department": "School of Computing" },
+    { "id": 2, "name": "Dr. Pari", "department": "School of Computing" },
+    { "id": 3, "name": "Dr. Prety", "department": "School of Computing" },
+    { "id": 4, "name": "Dr. Jackie", "department": "School of Computing" },
+    { "id": 5, "name": "Dr. Sara", "department": "School of Computing" },
+    { "id": 6, "name": "Dr. Yati", "department": "School of Psychology" },
+    { "id": 7, "name": "Mr. Jackie", "department": "School of Engineering" },
+    { "id": 8, "name": "Dr. Siti", "department": "School of Engineering" },
+    { "id": 9, "name": "Dr. Dewi Octaviani", "department": "School of Computing" }
+  ]
+}
