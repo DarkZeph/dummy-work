@@ -1,0 +1,73 @@
+{
+  "titles": [
+    {
+      "student_id": "TP069352",
+      "fyp_title": "Exploring the impact of sexual harassment on mental health",
+      "sdg_goal": {
+        "id": 3,
+        "name": "Good Health and Well-Being"
+      },
+      "fyp_description": "Education is a fundamental driver of societal progress, economic development, and personal empowerment. However, in East Africa, access to quality education remains a significant challenge due to socio-economic disparities, inadequate infrastructure, and linguistic issues. This project proposes a mobile platform designed to overcome these challenges by integrating offline capabilities, multilingual features, gamified modules, and more to promote inclusive and equitable education for all.",
+      "fyp_keywords": ["Mobile App", "Educational", "Personalized Learning", "Academic Enhancement"],
+      "title_status": "approved",
+      "title_remark": null,
+      "submission_date": "2025-01-20",
+      "status_date": "2025-01-28"
+    }
+  ],
+  "existing_titles": [
+    {
+      "id": "ET001",
+      "title": "Machine Learning in User Interface Design",
+      "description": "This project explores the integration of machine learning algorithms to enhance user interface design and user experience. The research focuses on adaptive interfaces that learn from user behavior to provide personalized experiences.",
+      "school": "School of Computing",
+      "field_of_study": "Data Science",
+      "title_owner": "Dr. Farzan Ahmad",
+      "owner_department": "School of Computing",
+      "preferred_supervisors": [
+        { "id": 1, "name": "Dr. Farzan Ahmad", "department": "School of Computing" },
+        { "id": 2, "name": "Dr. Pari", "department": "School of Computing" },
+        { "id": 3, "name": "Dr. Prety", "department": "School of Computing" }
+      ]
+    },
+    {
+      "id": "ET002",
+      "title": "AI-Powered Chatbot for Mental Health Support",
+      "description": "Developing an intelligent chatbot using natural language processing to provide mental health support and resources to university students.",
+      "school": "School of Psychology",
+      "field_of_study": "AI & Psychology",
+      "title_owner": "Dr. Yati",
+      "owner_department": "School of Psychology",
+      "preferred_supervisors": [
+        { "id": 1, "name": "Dr. Yati", "department": "School of Psychology" },
+        { "id": 2, "name": "Dr. Sara", "department": "School of Computing" }
+      ]
+    },
+    {
+      "id": "ET003",
+      "title": "Blockchain for Secure Academic Credentials",
+      "description": "Implementing blockchain technology to create tamper-proof digital certificates and academic credentials verification system.",
+      "school": "School of Computing",
+      "field_of_study": "Blockchain",
+      "title_owner": "Dr. Prety",
+      "owner_department": "School of Computing",
+      "preferred_supervisors": [
+        { "id": 1, "name": "Dr. Prety", "department": "School of Computing" },
+        { "id": 2, "name": "Dr. Jackie", "department": "School of Computing" }
+      ]
+    },
+    {
+      "id": "ET004",
+      "title": "IoT-Based Smart Agriculture Monitoring System",
+      "description": "Design and development of an IoT system for monitoring soil conditions, weather data, and crop health to optimize farming practices.",
+      "school": "School of Engineering",
+      "field_of_study": "IoT",
+      "title_owner": "Mr. Jackie",
+      "owner_department": "School of Engineering",
+      "preferred_supervisors": [
+        { "id": 1, "name": "Mr. Jackie", "department": "School of Engineering" },
+        { "id": 2, "name": "Dr. Siti", "department": "School of Engineering" }
+      ]
+    }
+  ]
+}
