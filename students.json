@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "student_id": "TP069352",
+      "student_name": "Parisa Sadat Bizeh",
+      "student_email": "parisa@apu.edu.my",
+      "school": "School of Computing",
+      "intake_code": "APD2F2309CS",
+      "interests": ["Mobile App Development", "Software Engineering", "Database Design", "Cloud Computing", "Networking", "Project Management"],
+      "supervisor": "Dr. Farzan Ahmad",
+      "second_marker": "Dr. Siti",
+      "project_manager": "Dr. Dewi Octaviani"
+    },
+    {
+      "student_id": "TP069353",
+      "student_name": "Ahmad Faiz",
+      "student_email": "ahmad@apu.edu.my",
+      "school": "School of Engineering",
+      "intake_code": "APD2F2309EN",
+      "interests": ["Robotics", "IoT", "Embedded Systems", "Control Systems"],
+      "supervisor": "Dr. Siti",
+      "second_marker": "Mr. Jackie",
+      "project_manager": "Dr. Dewi Octaviani"
+    }
+  ]
+}
