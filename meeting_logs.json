@@ -1,0 +1,32 @@
+{
+  "meeting_logs": [
+    {
+      "id": "ML001",
+      "student_id": "TP069352",
+      "meeting_number": 1,
+      "semester": 1,
+      "meeting_date": "2025-01-10",
+      "status": "approved",
+      "items_for_discussion": "1. Review of literature review chapter\n2. Discussion on research methodology\n3. Clarification on data collection methods",
+      "record_of_discussion": "Supervisor suggested additional references for the literature review. Agreed on using mixed-method approach for data collection. Discussed timeline for completion of first draft.",
+      "action_list": "1. Add 5 more academic sources to literature review by 20 Jan\n2. Prepare detailed methodology section\n3. Submit draft by 25 Jan",
+      "supervisor_name": "Dr. Farzan Ahmad",
+      "supervisor_feedback": "Good progress, keep it up!",
+      "created_at": "2025-01-10"
+    },
+    {
+      "id": "ML002",
+      "student_id": "TP069352",
+      "meeting_number": 2,
+      "semester": 1,
+      "meeting_date": "2025-01-25",
+      "status": "pending",
+      "items_for_discussion": "1. Progress on literature review\n2. Data collection update\n3. Challenges faced",
+      "record_of_discussion": "",
+      "action_list": "",
+      "supervisor_name": "Dr. Farzan Ahmad",
+      "supervisor_feedback": null,
+      "created_at": "2025-01-25"
+    }
+  ]
+}
