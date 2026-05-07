@@ -1,0 +1,36 @@
+{
+  "ethics_forms": [
+    {
+      "student_id": "TP069352",
+      "form_type": "fast-track",
+      "ethics_status": "approved",
+      "ethics_remarks": "Good.",
+      "supervisor_name": "MAZNAH BINTI MOHD ZIN",
+      "remark_date": "Apr 23, 2025, 2:01:52 PM",
+      "submission_date": "2025-04-20",
+      "answers": {
+        "confidentiality_questions": [
+          { "id": 1, "text": "Will you describe the main procedures to participants in advance, so that they are informed about what to expect?", "answer": "yes" },
+          { "id": 2, "text": "Will you tell participants that their participation is voluntary?", "answer": "yes" },
+          { "id": 3, "text": "Will you obtain written consent for participation?", "answer": "yes" },
+          { "id": 4, "text": "If the research is observational, will you ask participants for their consent to being observed?", "answer": "yes" },
+          { "id": 5, "text": "Will you tell participants that they may withdraw from the research at any time and for any reason?", "answer": "yes" },
+          { "id": 6, "text": "With questionnaires and interviews will you give participants the option of omitting questions they do not want to answer?", "answer": "yes" },
+          { "id": 7, "text": "Will you tell participants that their data will be treated with full confidentiality and that, if published, it will not be identifiable as theirs?", "answer": "yes" },
+          { "id": 8, "text": "Will you give participants the opportunity to be debriefed i.e. to find out more about the study and its results?", "answer": "yes" }
+        ],
+        "nature_questions": [
+          { "id": 9, "text": "Will your project/assignment deliberately mislead participants in any way?", "answer": "no" },
+          { "id": 10, "text": "Is there any realistic risk of any participants experiencing either physical or psychological distress or discomfort?", "answer": "no" }
+        ],
+        "special_groups": [],
+        "external_funding": false,
+        "description": "The study will involve surveying 100 university students about their study habits. Participants will be recruited through email invitations. Data will be collected via online survey.",
+        "confirm_no_significant_issues": true,
+        "confirm_insurance": true,
+        "confirm_documents": true,
+        "confirm_finalised": true
+      }
+    }
+  ]
+}
