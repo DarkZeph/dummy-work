@@ -1,0 +1,16 @@
+{
+  "extension_requests": [
+    {
+      "id": "ER001",
+      "student_id": "TP069352",
+      "type": "ppf",
+      "explanation": "I was hospitalized due to dengue fever and couldn't complete the proposal on time.",
+      "file_name": "medical_certificate.pdf",
+      "file_url": "https://example.com/files/medical_certificate.pdf",
+      "status": "approved",
+      "extended_due_date": "2025-01-22",
+      "submission_date": "2025-01-16",
+      "remarks": null
+    }
+  ]
+}
