@@ -1,0 +1,37 @@
+{
+  "presentation_schedule": {
+    "student_id": "TP069352",
+    "status": "approved",
+    "proposed_options": [
+      {
+        "id": 1,
+        "date": "2025-02-25",
+        "day": "Tuesday",
+        "time": "14:00",
+        "venue": "Level 6, Psychology Lab",
+        "formatted": "Tuesday, 25 Feb, 14:00, Level 6, Psychology Lab"
+      },
+      {
+        "id": 2,
+        "date": "2025-02-28",
+        "day": "Friday",
+        "time": "11:00",
+        "venue": "Level 6, Psychology Lab",
+        "formatted": "Friday, 28 Feb, 11:00, Level 6, Psychology Lab"
+      },
+      {
+        "id": 3,
+        "date": "2025-03-02",
+        "day": "Sunday",
+        "time": "09:00",
+        "venue": "Level 6, Psychology Lab",
+        "formatted": "Sunday, 2 Mar, 09:00, Level 6, Psychology Lab"
+      }
+    ],
+    "scheduled_date": "2025-02-28",
+    "scheduled_time": "11:00",
+    "scheduled_venue": "Level 6, Psychology Lab",
+    "submission_date": "2025-02-15",
+    "supervisor_suggestions": null
+  }
+}
